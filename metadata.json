@@ -1,0 +1,6 @@
+{
+  "name": "CrossPay Trust",
+  "description": "Smarter Payments. Trusted Transactions. Complete Visibility. Blockchain-enabled cross-border payment tracking and AI risk intelligence platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
